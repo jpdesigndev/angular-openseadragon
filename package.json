@@ -1,0 +1,8 @@
+{
+  "name": "angular-openseadragon",
+  "version": "1.0.0",
+  "main": "./src/angular-openseadragon.js",
+  "repository": "https://github.com/MaitreDede/angular-openseadragon.git",
+  "author": "MaitreDede",
+  "license": "MIT"
+}
